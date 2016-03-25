@@ -1,0 +1,2 @@
+[run]
+omit = setuptools_tasks/tests/*
