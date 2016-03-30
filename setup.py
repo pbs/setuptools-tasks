@@ -7,7 +7,7 @@ LONG_DESCRIPTION = open('README.rst').read()
 
 
 setup(
-    name='setuptools_tasks',
+    name='setuptools-tasks',
     version='0.1.0',
     description='Augments setuptools lifecycle.',
     long_description=LONG_DESCRIPTION,
